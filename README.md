@@ -2,11 +2,11 @@
 
 - ### Web
     
-    ![](https://raw.githubusercontent.com/hanidilla/UAS_SPK_TOPSIS/master/gambar/a.PNG)
+    ![](https://raw.githubusercontent.com/hanidilla/UAS_SPK_TOPSIS/master/gambar/1.PNG)
     
-    ![](https://raw.githubusercontent.com/hanidilla/UAS_SPK_TOPSIS/master/gambar/b.PNG)
+    ![](https://raw.githubusercontent.com/hanidilla/UAS_SPK_TOPSIS/master/gambar/2.PNG)
     
-    ![](https://raw.githubusercontent.com/hanidilla/UAS_SPK_TOPSIS/master/gambar/c.PNG)
+    ![](https://raw.githubusercontent.com/hanidilla/UAS_SPK_TOPSIS/master/gambar/3.PNG)
     
 ## License
 > This program is Free Software: 
